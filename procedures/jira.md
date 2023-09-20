@@ -38,3 +38,7 @@ Creo quindi lo **sprint** e inserisco le stories che ho intenzione di svolgere i
 Una volta creata la lista di sprint posso farli partire, specificandone la durata, il momento di inizio ecc.
 
 Lo sprint attualmente attivo è visibile nella sezione **active sprints**, nella quale posso vedere la lista di stories che ho inserito precedentemente. All'interno di ogni story nello sprint posso inserire delle task (subtasks) che devono essere svolte per poter realizzare la story. Non appen tutte le subtask sono state completate, la story verrà segnata **done** automaticamente.
+
+## integrazione con github
+
+## integrazione con confluence
